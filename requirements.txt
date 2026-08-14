@@ -1,0 +1,19 @@
+# Module 1 - Data Pipeline
+pandas
+numpy
+
+# Module 2 - Analytics and Machine Learning
+scikit-learn
+imbalanced-learn
+matplotlib
+seaborn
+joblib
+
+# Module 3 - Support Assistant
+fastapi
+uvicorn[standard]
+pydantic
+langgraph
+chromadb
+sentence-transformers
+torch
